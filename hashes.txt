@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amar Dike Takiye Shey
+
+This log tracks the cryptographic history and versioning for the song **Amar Dike Takiye Shey** (amar-dike-takiye-shey).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T15:55:56.146303 | `v1` | `a1073914a2581697a9a51d8d4d0e18f89bf9b337f6f1c3b31b36b3f190e69164` | `5afbd561a585107be18008d282043638578fe3f6f03de0c83f3513aa01ef5c6c` | `2026-05-08_amar-dike-takiye-shey-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
